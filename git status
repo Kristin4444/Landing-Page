@@ -1,0 +1,49 @@
+[33mcommit 601700a6703de1de58772d41503d6fad9656a262[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kristin4444 <kluciarovakristina@gmail.com>
+Date:   Sun Aug 27 19:22:58 2023 +0200
+
+     Changes to be committed:
+            modified:   JKpage/index.html
+
+[33mcommit 962ce177d863fbae5314bdad80f52d59db8f272f[m
+Author: Kristin4444 <kluciarovakristina@gmail.com>
+Date:   Sun Aug 27 17:46:26 2023 +0200
+
+     Changes to be committed:
+            new file:   JKpage/headerlinkone.html
+            new file:   JKpage/headerlinkthree.html
+            new file:   JKpage/headerlinktwo.html
+            modified:   JKpage/index.html
+
+[33mcommit e2da7c0d32e0e7698aee95c9de9f2dc64ef35e64[m
+Author: Kristin4444 <kluciarovakristina@gmail.com>
+Date:   Sun Aug 27 17:45:19 2023 +0200
+
+     Changes to be committed:
+            new file:   JKpage/index.html
+            renamed:    designpage.txt -> JKpage/styles.css
+     Changes not staged for commit:
+            modified:   JKpage/index.html
+     Untracked files:
+            JKpage/headerlinkone.html
+            JKpage/headerlinkthree.html
+            JKpage/headerlinktwo.html
+
+[33mcommit 23c1375b35367d20a86bf35e39bd47bbe46bc3c1[m
+Author: Kristin4444 <kluciarovakristina@gmail.com>
+Date:   Sun Aug 27 15:03:51 2023 +0200
+
+     Changes to be committed:
+            modified:   README.md
+
+[33mcommit 98bf0e1e17b5f2bdfec62689143e9f809005494c[m
+Author: Kristin4444 <kluciarovakristina@gmail.com>
+Date:   Mon Aug 21 11:45:06 2023 +0200
+
+    Add designpage.txt
+
+[33mcommit 4613d11cfbf786410f8616777c31a0e3f24d7b3b[m
+Author: Kristin4444 <127897323+Kristin4444@users.noreply.github.com>
+Date:   Mon Aug 21 11:11:37 2023 +0200
+
+    Initial commit
