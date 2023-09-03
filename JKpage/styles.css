@@ -5,8 +5,6 @@
 
 /* header dark/background */
 .dark-background {
-    display: flex;
-    justify-content:flex-start;
     background-color: #1f2937;
     height: 500px;
     padding: 10px 150px;  
@@ -28,17 +26,21 @@ img {
 .nav {
     display: flex;
     justify-content: space-between;
-    flex-direction: row;
-    gap: 50px 50px;
+    align-items: flex-start;
+    
 }
 /* header links */
 .hero-links {
     display: flex;
     font-size: 18px;
-    justify-content:................
+    justify-content: flex-end;
+    padding-bottom: 120px;
+
+
 }
 .hero-links > a {
     color: aliceblue;
+    
 }
 /* hero divs */
 .hero-divs {
